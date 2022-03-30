@@ -6,6 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import org.firstinspires.ftc.teamcode.motors.EncoderMotor;
 import org.firstinspires.ftc.teamcode.motors.Motor;
 
+//class to control the mecanum drive
 public class MecanumControl {
 
     private MecanumControl.Controller controller;
