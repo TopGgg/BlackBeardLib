@@ -1,5 +1,6 @@
 package org.firstinspires.ftc.teamcode.config;
 
+//Configuration Class
 public class Config {
 
     public static final String Version = "V0.1";
